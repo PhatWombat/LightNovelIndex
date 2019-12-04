@@ -1,0 +1,134 @@
+
+
+body
+{
+	margin: auto;
+	width: 100%;
+	
+	/*background-color: blue;*/
+	/*background-image: linear-gradient(to right, #0000d9, black, #0000d9);
+	background: -moz-linear-gradient(left, #0000d9, black, #0000d9);*/
+	background-color: gray;
+}
+
+
+.titleContainer{
+	width: 1000px;
+	margin-bottom: 100px;
+}
+
+
+.title{
+	font-family: arial;
+	font-size: 24px;
+	line-height: 1.4;
+	text-align: justify;
+	
+	color: white;
+	
+}
+
+.title:link{
+	color: red;
+}
+
+.blackBackground
+{
+	width: 1000px;
+	background-color: black;
+	padding: 120px 0px 120px 0px;
+	margin: auto;
+}
+
+
+.descriptionLN{
+	width: auto;
+	border:   2px solid black;
+	border-radius: 25px;
+	padding: 18px;
+	background-color: white;
+	margin: auto;
+	margin-left: 18px;
+	text-align: justify;
+	line-height: 1.4;
+	font-family: arial;
+	/*font-family:georgia,garamond,serif;*/
+}
+
+
+.titreDiv
+{
+	color: white;
+	text-align: center;
+	font-size: 16px;
+}
+
+
+h3{
+	background-color: gray;
+	border: 2px solid black;
+	border-radius: 12px;
+	padding: 2px 5px 2px 10px;
+	margin: 10px 15px;
+}
+
+span{
+	margin: auto;
+}
+
+.genre{
+	
+	
+	width: auto;
+	border:   2px solid black;
+	border-radius: 25px;
+	padding: 18px;
+	background-color: white;
+	margin: auto;
+	margin-left: 18px;
+	text-align: justify;
+}
+
+
+.flextest{ /*Permet de mettre la description a cote du cover*/
+	display: flex ;
+}
+
+.flextest2{	/*Permet de mettre les genres en dessous de la description*/
+	display: flex;
+	flex-direction: column;
+}
+
+.Novel{
+	width: 950px;
+	margin: auto;
+}
+
+
+.Novel:last-child
+{
+	margin-bottom: 120px;
+}
+
+
+
+
+.FooterRight
+{	
+	position: fixed;
+	bottom: 0px;
+	right: 2%;
+	width: 18%;
+}
+
+.FooterLeft
+{
+	position: fixed;
+	bottom: 0px;
+	left: 2%;
+	width: 18%;
+}
+
+
+
+
