@@ -13,7 +13,7 @@ body
 
 
 .titleContainer{
-	width: 1000px;
+	width: 100%;
 	margin-bottom: 100px;
 }
 
@@ -34,7 +34,7 @@ body
 
 .blackBackground
 {
-	width: 1000px;
+	width: 62%;
 	background-color: black;
 	padding: 120px 0px 120px 0px;
 	margin: auto;
@@ -100,10 +100,19 @@ span{
 }
 
 .Novel{
-	width: 950px;
+	width: 90%;
 	margin: auto;
 }
 
+
+.linkNovel{
+	min-width: 35%;
+	height: 100%;
+}
+
+.imgNovel{
+	width: 100%;
+}
 
 .Novel:last-child
 {
@@ -118,7 +127,7 @@ span{
 	position: fixed;
 	bottom: 0px;
 	right: 2%;
-	width: 18%;
+	width: 15%;
 }
 
 .FooterLeft
@@ -126,7 +135,7 @@ span{
 	position: fixed;
 	bottom: 0px;
 	left: 2%;
-	width: 18%;
+	width: 15%;
 }
 
 
