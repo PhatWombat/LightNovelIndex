@@ -93,4 +93,5 @@ var imgBankCornerAll =	["https://cdn.discordapp.com/attachments/6528049540834263
 var imgBankCornerRight =   ["https://cdn.discordapp.com/attachments/635375905077985284/645852617372860416/Raph_Chan.png"];
 
 
-var imgBankCornerLeft = ["https://cdn.discordapp.com/attachments/635375905077985284/647309483210440726/Raph_Chan_Smoll.png"];
+var imgBankCornerLeft = ["https://cdn.discordapp.com/attachments/635375905077985284/647309483210440726/Raph_Chan_Smoll.png",
+			"https://cdn.discordapp.com/attachments/652804954083426304/656770726677970974/Emperor_Zel_600.png"];
