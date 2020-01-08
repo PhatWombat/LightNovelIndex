@@ -139,5 +139,85 @@ span{
 }
 
 
+/*----------------------------------------------------NavBar avec Dropdown-------------------------------------------------*/
+
+	
+					/*Define the UL*/
+.LeUl {
+	position: fixed;
+    list-style-type: none;
+    margin: 0px 10% 10% 10%;
+    padding: 0px 0px 0px 0px;
+    overflow: hidden;
+    background-color: #333;
+					/*makes the nav bar fixed to the top*/
+	
+	
+	transition: top 1s;
+    top: 0px;
+    width: 80%;
+}
+					/*makes the li stick to the left put a border to the right*/
+nav ul li {
+    float: left;
+	border-right: 1px solid #bbb;
+}
+					/*take out the border of the last line des boutons de sites*/
+li.Site:nth-last-child(1n+1) {
+    border-right: none;
+}
+					/**/
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: #3385ff;
+}
+
+li.dropdown {
+    display: inline-block;
+	background-color: grey;
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    top: 46px;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+	
+}
+
+.dropdown-content a:hover {background-color: #e6eeff}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.Site {
+    border-left: 1px solid #bbb;
+	background-color: #727;
+}
+
 
 
