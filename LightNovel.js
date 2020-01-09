@@ -24,6 +24,10 @@ function funcAccordeon0() {
 	$( "#accordion" ).accordion({ heightStyle: "content", collapsible: true, active : false /*0*/});
 } 
 
+
+function funcAccordeonTestNormal() {
+	$( "#accordion2" ).accordion({ heightStyle: "content", collapsible: true, active : false /*0*/});
+} 
 	
 	
 function randomCornerAll() {			//Function pour summon une img random dans le coin droit
