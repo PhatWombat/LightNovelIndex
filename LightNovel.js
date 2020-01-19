@@ -109,7 +109,7 @@ var imgBankCornerLeft = ["https://cdn.discordapp.com/attachments/635375905077985
 
 function ShowBanner(){
 	document.getElementById("HiddenBanner").style.display = "block"
-	document.getElementById("imgCornerRight").src = NSFWimgBankCornerRight["https://cdn.discordapp.com/attachments/668295003440939046/668409911742562314/AquaThumb02.png"];
+	document.getElementById("imgCornerRight").src = "https://cdn.discordapp.com/attachments/668295003440939046/668409911742562314/AquaThumb02.png";
 }
 
 
