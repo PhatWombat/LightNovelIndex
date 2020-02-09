@@ -98,7 +98,8 @@ var imgBankCornerAll =	["https://cdn.discordapp.com/attachments/6528049540834263
 						"https://cdn.discordapp.com/attachments/652804954083426304/652817567102271498/Kazuma_Dance.gif"];
 
 
-var imgBankCornerRight =   ["https://cdn.discordapp.com/attachments/635375905077985284/645852617372860416/Raph_Chan.png"];
+var imgBankCornerRight =   ["https://cdn.discordapp.com/attachments/635375905077985284/645852617372860416/Raph_Chan.png",
+			   "https://cdn.discordapp.com/attachments/652804954083426304/675907868628746250/Chomusuke_Quartet.png"];
 
 
 var imgBankCornerLeft = ["https://cdn.discordapp.com/attachments/635375905077985284/647309483210440726/Raph_Chan_Smoll.png",
