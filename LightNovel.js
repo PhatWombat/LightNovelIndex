@@ -95,7 +95,8 @@ function randomCornerDroit() {							//change l'image de droite avec une image d
 var imgBankCornerAll =	["https://cdn.discordapp.com/attachments/652804954083426304/652805005971030016/Aqua_Dance.gif",
 						"https://cdn.discordapp.com/attachments/652804954083426304/652817184325894157/Darkness_Dance02.gif",
 						"https://cdn.discordapp.com/attachments/652804954083426304/652814953820192768/Megumin_Dance.gif",
-						"https://cdn.discordapp.com/attachments/652804954083426304/652817567102271498/Kazuma_Dance.gif"];
+						"https://cdn.discordapp.com/attachments/652804954083426304/652817567102271498/Kazuma_Dance.gif",
+						"https://media.discordapp.net/attachments/652804954083426304/675916313910312989/Yume01.1.png"];
 
 
 var imgBankCornerRight =   ["https://cdn.discordapp.com/attachments/635375905077985284/645852617372860416/Raph_Chan.png",
