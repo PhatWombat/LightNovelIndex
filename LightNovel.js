@@ -8,7 +8,7 @@ var imgBankCornerAll =	["https://cdn.discordapp.com/attachments/6528049540834263
 
 var imgBankCornerRight =   ["https://cdn.discordapp.com/attachments/635375905077985284/645852617372860416/Raph_Chan.png",
 			   "https://cdn.discordapp.com/attachments/652804954083426304/675907868628746250/Chomusuke_Quartet.png",
-			   "https://cdn.discordapp.com/attachments/652804954083426304/675964133342183432/Yume02.2.png"];
+			   "https://cdn.discordapp.com/attachments/652804954083426304/675966894561427456/Yume02.3.png"];
 
 
 var imgBankCornerLeft = ["https://cdn.discordapp.com/attachments/635375905077985284/647309483210440726/Raph_Chan_Smoll.png",
