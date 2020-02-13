@@ -5,8 +5,7 @@ var imgBankCornerAll =	["https://cdn.discordapp.com/attachments/6528049540834263
 			"https://cdn.discordapp.com/attachments/652804954083426304/652817567102271498/Kazuma_Dance.gif",
 			"https://media.discordapp.net/attachments/652804954083426304/675916313910312989/Yume01.1.png",
 			"https://cdn.discordapp.com/attachments/652804954083426304/677319906546548780/Sento01.1.png",
-			"https://cdn.discordapp.com/attachments/652804954083426304/677328962535555084/Holo01.png",
-			"https://cdn.discordapp.com/attachments/652804954083426304/677333610541613097/Holo03.png"];
+			"https://cdn.discordapp.com/attachments/652804954083426304/677328962535555084/Holo01.png"];
 
 
 var imgBankCornerRight =   ["https://cdn.discordapp.com/attachments/635375905077985284/645852617372860416/Raph_Chan.png",
