@@ -168,4 +168,5 @@ var NSFWimgBankCornerRight = 	["https://cdn.discordapp.com/attachments/369661054
 
 
 var NSFWimgBankCornerLeft = 	["https://cdn.discordapp.com/attachments/369661054042505237/455231345455661060/Isuzu01.2.png",
-								"https://cdn.discordapp.com/attachments/668295003440939046/668397530916323341/ENNk751WkAILIt1.png"];
+				"https://cdn.discordapp.com/attachments/668295003440939046/668397530916323341/ENNk751WkAILIt1.png",
+				"https://cdn.discordapp.com/attachments/668295003440939046/699124794334904364/Aqua05.2.png"];
