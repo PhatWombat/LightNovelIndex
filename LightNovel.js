@@ -161,10 +161,14 @@ function NsfwRndCornerDroit() {							//change l'image de droite avec une image 
 
 
 
-var NSFWimgBankCornerAll =		["https://danbooru.donmai.us/data/__aqua_kono_subarashii_sekai_ni_shukufuku_wo_drawn_by_kyuukon_qkonsan__d8a3c430e1727fbdff9f75d8729e6a11.png"];
+var NSFWimgBankCornerAll =	["https://danbooru.donmai.us/data/__aqua_kono_subarashii_sekai_ni_shukufuku_wo_drawn_by_kyuukon_qkonsan__d8a3c430e1727fbdff9f75d8729e6a11.png",
+				"https://cdn.discordapp.com/attachments/369661054042505237/413186654304469002/Darkness02.2.png",
+				"https://cdn.discordapp.com/attachments/369661054042505237/455233980162113557/Isuzu02.2.png"];
 
 
-var NSFWimgBankCornerRight = 	["https://cdn.discordapp.com/attachments/369661054042505237/417129554247811082/Aqua04.2.png"];
+var NSFWimgBankCornerRight = 	["https://cdn.discordapp.com/attachments/369661054042505237/417129554247811082/Aqua04.2.png",
+				"https://cdn.discordapp.com/attachments/369661054042505237/415724320413974538/Aqua01.2.png",
+				"https://cdn.discordapp.com/attachments/369661054042505237/455237151542607882/Isuzu03.2.png"];
 
 
 var NSFWimgBankCornerLeft = 	["https://cdn.discordapp.com/attachments/369661054042505237/455231345455661060/Isuzu01.2.png",
