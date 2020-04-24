@@ -20,9 +20,19 @@ var imgBankCornerLeft = ["https://cdn.discordapp.com/attachments/635375905077985
 			"https://cdn.discordapp.com/attachments/652804954083426304/677325052563423264/GS1.png"];
 
 
+var novelDisplay = 0;
 
-
-
+function testmebitch() {
+	var varNovel = document.getElementsByClassName("Novel");
+	
+	if(novelDisplay == 1){
+		document.getElementById(varNovel).style.display="none";
+		novelDisplay = 0;
+	} else {
+		document.getElementById(varNovel).style.display="block";
+		novelDisplay = 1;
+	}
+}
 
 function funcAccordeon0() {
 	$( "#accordion" ).accordion({ heightStyle: "content", collapsible: true, active : false /*0*/});
