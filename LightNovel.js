@@ -35,7 +35,7 @@ function testmebitch() {
 }
 
 function funcAccordeon0() {
-	$( "#accordion" ).accordion({ heightStyle: "content", collapsible: true, active : false /*0*/});
+	$( "#accordion" ).accordion({ heightStyle: "content", collapsible: true, active : false; /*0*/});
 } 
 
 
