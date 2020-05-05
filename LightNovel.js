@@ -35,7 +35,7 @@ function testmebitch() {
 }
 
 function funcAccordeon0() {
-	$( "#accordion" ).accordion({ heightStyle: "content", collapsible: true, active : false; /*0*/});
+	$( "#accordion" ).accordion({ heightStyle: "content", collapsible: true, active : false /*0*/});
 } 
 
 
@@ -52,17 +52,14 @@ function randomCornerAll() {			//Function pour summon une img random dans le coi
 		if(x == 0 /*gauche*/){
 			
 			switch(ChoisirBank) {
-				
 				case 0:
 					var LengthCornerAll = imgBankCornerAll.length;								//mesure la grandeur de l'index DROITE
 					var AleaIndex = Math.floor(Math.random() * LengthCornerAll);
 					document.getElementById("imgCornerLeft").src = imgBankCornerAll[AleaIndex];
 					break;
-				
 				case 1:
 					randomCornerLeft();
 					break;
-				
 			}
 		} else /*droit*/ {
 		
